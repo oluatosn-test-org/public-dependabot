@@ -1,0 +1,8 @@
+name: dependency ignore test
+on: workflow_dispatch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: oluatosn-test-org/private-dependabot@v1
