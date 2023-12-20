@@ -8,7 +8,7 @@ version: 2
 #registries: 
   
 updates:
-  - package-ecosyste: "github-actions"
+  - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "daily"
